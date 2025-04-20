@@ -1,11 +1,24 @@
-[2025-04-20 15:03:47] [INFO] Recognition threshold set to 70.0
-[2025-04-20 15:04:29] [INFO] Started real-time attendance monitoring
-[2025-04-20 15:04:29] [ERROR] Labels file not found.
-[2025-04-20 15:04:29] [ERROR] Could not load model. Please train the model first.
-[2025-04-20 15:04:33] [INFO] Training model...
-[2025-04-20 15:04:33] [INFO] Collected 3 images for Chirag
-[2025-04-20 15:04:33] [INFO] Model trained successfully with 3 images.
-[2025-04-20 15:04:35] [INFO] Started real-time attendance monitoring
-[2025-04-20 15:04:35] [INFO] Model and labels loaded successfully.
-[2025-04-20 15:05:08] [INFO] Created attendance file and marked Chirag
-[2025-04-20 15:05:24] [INFO] Attendance monitoring stopped
+[2025-04-20 15:32:47] [INFO] Training model...
+[2025-04-20 15:32:47] [INFO] Collected 10 images for Chetan
+[2025-04-20 15:32:47] [INFO] Model trained successfully with 10 images.
+[2025-04-20 15:32:49] [INFO] Started real-time attendance monitoring
+[2025-04-20 15:32:49] [INFO] Model and labels loaded successfully.
+[2025-04-20 15:32:53] [INFO] Created attendance file and marked Chetan
+[2025-04-20 15:33:17] [INFO] Attendance monitoring stopped
+[2025-04-20 15:33:31] [INFO] Recognition threshold set to 25.0
+[2025-04-20 15:33:35] [INFO] Started real-time attendance monitoring
+[2025-04-20 15:33:35] [INFO] Model and labels loaded successfully.
+[2025-04-20 15:34:04] [INFO] Attendance monitoring stopped
+[2025-04-20 15:34:05] [INFO] Training model...
+[2025-04-20 15:34:05] [INFO] Collected 10 images for Chetan
+[2025-04-20 15:34:05] [INFO] Model trained successfully with 10 images.
+[2025-04-20 15:34:08] [INFO] Started real-time attendance monitoring
+[2025-04-20 15:34:08] [INFO] Model and labels loaded successfully.
+[2025-04-20 15:34:24] [INFO] Attendance monitoring stopped
+[2025-04-20 15:34:29] [INFO] Started real-time attendance monitoring
+[2025-04-20 15:34:29] [INFO] Model and labels loaded successfully.
+[2025-04-20 15:34:35] [INFO] Attendance monitoring stopped
+[2025-04-20 15:34:51] [INFO] Started real-time attendance monitoring
+[2025-04-20 15:34:51] [INFO] Model and labels loaded successfully.
+[2025-04-20 15:35:04] [INFO] Attendance monitoring stopped
+[2025-04-20 15:35:06] [INFO] Attendance monitoring is not running
