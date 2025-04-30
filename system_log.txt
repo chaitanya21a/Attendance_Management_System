@@ -69,3 +69,24 @@
 [2025-04-30 21:24:31] [INFO] Chaitanya already marked for today
 [2025-04-30 21:24:32] [INFO] Chaitanya already marked for today
 [2025-04-30 21:24:34] [INFO] Attendance monitoring stopped
+[2025-04-30 23:38:55] [INFO] Started real-time attendance monitoring
+[2025-04-30 23:38:55] [INFO] Model and labels loaded successfully.
+[2025-04-30 23:40:16] [INFO] Started real-time attendance monitoring
+[2025-04-30 23:40:16] [INFO] Model and labels loaded successfully.
+[2025-04-30 23:40:25] [INFO] Stopping attendance monitoring...
+[2025-04-30 23:40:25] [INFO] Attendance monitoring stopped
+[2025-04-30 23:40:39] [INFO] Started real-time attendance monitoring
+[2025-04-30 23:40:39] [INFO] Model and labels loaded successfully.
+[2025-04-30 23:40:50] [INFO] Stopping attendance monitoring...
+[2025-04-30 23:40:51] [INFO] Attendance monitoring stopped
+[2025-04-30 23:40:57] [INFO] Training model...
+[2025-04-30 23:40:57] [INFO] Collected 10 images for Anshika
+[2025-04-30 23:40:57] [INFO] Collected 10 images for Chaitanya
+[2025-04-30 23:40:57] [INFO] Collected 10 images for Meena
+[2025-04-30 23:40:57] [INFO] Collected 10 images for Tanya
+[2025-04-30 23:40:57] [INFO] Model trained successfully with 40 images.
+[2025-04-30 23:40:59] [INFO] Started real-time attendance monitoring
+[2025-04-30 23:40:59] [INFO] Model and labels loaded successfully.
+[2025-04-30 23:41:01] [INFO] Created attendance file and marked Anshika
+[2025-04-30 23:41:16] [INFO] Stopping attendance monitoring...
+[2025-04-30 23:41:17] [INFO] Attendance monitoring stopped
