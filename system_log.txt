@@ -1501,3 +1501,18 @@
 [2025-05-05 16:06:40] [INFO] Anshika already marked for today
 [2025-05-05 16:06:41] [INFO] Anshika already marked for today
 [2025-05-05 16:06:41] [INFO] Attendance monitoring stopped
+[2025-05-05 22:38:50] [INFO] Training model...
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Akshita
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Anshika
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Arushi
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Chaitanya
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Chirag
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Kanchan
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Meena
+[2025-05-05 22:38:50] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-05 22:38:50] [INFO] Collected 8 images for Sourav
+[2025-05-05 22:38:50] [INFO] Collected 10 images for Tanya
+[2025-05-05 22:38:51] [INFO] Model trained with 98 images
+[2025-05-05 22:38:54] [INFO] Started real-time attendance
+[2025-05-05 22:38:54] [INFO] Model and labels loaded
+[2025-05-05 22:39:16] [INFO] Attendance stopped
