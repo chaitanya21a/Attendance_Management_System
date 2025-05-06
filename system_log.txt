@@ -67,3 +67,104 @@
 [2025-05-06 12:51:40] [INFO] Chaitanya already marked today
 [2025-05-06 12:51:40] [INFO] Chaitanya already marked today
 [2025-05-06 12:51:43] [INFO] Attendance stopped
+[2025-05-06 13:11:50] [INFO] Started real-time attendance
+[2025-05-06 13:11:50] [INFO] Model and labels loaded
+[2025-05-06 13:11:55] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:55] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:55] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:56] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:56] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:56] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:56] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:11:57] [INFO] Chaitanya already marked today
+[2025-05-06 13:12:00] [INFO] Attendance stopped
+[2025-05-06 13:12:06] [INFO] Testing recognition...
+[2025-05-06 13:12:06] [INFO] Model and labels loaded
+[2025-05-06 13:12:07] [INFO] Recognized: Mamta, Confidence: 58.36122098173773
+[2025-05-06 13:13:39] [INFO] Testing recognition...
+[2025-05-06 13:13:39] [INFO] Model and labels loaded
+[2025-05-06 13:13:39] [INFO] Recognized: Dishant, Confidence: 52.92028421767393
+[2025-05-06 13:13:46] [INFO] Threshold set to 50.0
+[2025-05-06 13:13:50] [INFO] Started real-time attendance
+[2025-05-06 13:13:50] [INFO] Model and labels loaded
+[2025-05-06 13:14:02] [INFO] Attendance stopped
+[2025-05-06 13:14:08] [INFO] Threshold set to 85.0
+[2025-05-06 13:14:16] [INFO] Started real-time attendance
+[2025-05-06 13:14:16] [INFO] Model and labels loaded
+[2025-05-06 13:14:20] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:21] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:21] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:21] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:21] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:21] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:22] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:22] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:22] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:23] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:23] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:23] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:23] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:24] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:25] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:26] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:26] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:26] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:27] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:28] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:29] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:30] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:30] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:30] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:32] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:32] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:32] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:33] [INFO] Chaitanya already marked today
+[2025-05-06 13:14:35] [INFO] Attendance stopped
