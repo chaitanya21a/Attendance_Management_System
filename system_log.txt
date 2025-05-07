@@ -168,3 +168,494 @@
 [2025-05-06 13:14:32] [INFO] Chaitanya already marked today
 [2025-05-06 13:14:33] [INFO] Chaitanya already marked today
 [2025-05-06 13:14:35] [INFO] Attendance stopped
+[2025-05-06 13:52:42] [INFO] Training model...
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Akshita
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Anshika
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Arushi
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Chaitanya
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Chirag
+[2025-05-06 13:52:42] [INFO] Collected 5 images for Dishant
+[2025-05-06 13:52:42] [INFO] Collected 10 images for Kanchan
+[2025-05-06 13:52:42] [INFO] Collected 5 images for Mamta
+[2025-05-06 13:52:42] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-06 13:52:42] [INFO] Collected 8 images for Sourav
+[2025-05-06 13:52:43] [INFO] Model trained with 88 images
+[2025-05-06 13:52:50] [INFO] Testing recognition...
+[2025-05-06 13:52:50] [INFO] Model and labels loaded
+[2025-05-06 13:52:51] [INFO] Recognized: Dishant, Confidence: 52.92028421767393
+[2025-05-06 13:52:55] [INFO] Started real-time attendance
+[2025-05-06 13:52:55] [INFO] Model and labels loaded
+[2025-05-06 13:52:58] [INFO] Chaitanya already marked today
+[2025-05-06 13:52:58] [INFO] Chaitanya already marked today
+[2025-05-06 13:52:58] [INFO] Chaitanya already marked today
+[2025-05-06 13:52:58] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:17] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:17] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:17] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:17] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:19] [INFO] Chaitanya already marked today
+[2025-05-06 13:53:42] [INFO] Attendance stopped
+[2025-05-06 13:53:50] [INFO] Threshold set to 95.0
+[2025-05-06 13:53:53] [INFO] Training model...
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Akshita
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Anshika
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Arushi
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Chaitanya
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Chirag
+[2025-05-06 13:53:53] [INFO] Collected 5 images for Dishant
+[2025-05-06 13:53:53] [INFO] Collected 10 images for Kanchan
+[2025-05-06 13:53:53] [INFO] Collected 5 images for Mamta
+[2025-05-06 13:53:53] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-06 13:53:53] [INFO] Collected 8 images for Sourav
+[2025-05-06 13:53:54] [INFO] Model trained with 88 images
+[2025-05-06 13:53:55] [INFO] Started real-time attendance
+[2025-05-06 13:53:55] [INFO] Model and labels loaded
+[2025-05-06 13:54:20] [INFO] Attendance stopped
+[2025-05-07 11:43:12] [INFO] Preparing DeepFace database...
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Akshita
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Anshika
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Arushi
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Chaitanya
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Chirag
+[2025-05-07 11:43:12] [INFO] Collected 5 images for Dishant
+[2025-05-07 11:43:12] [INFO] Collected 10 images for Kanchan
+[2025-05-07 11:43:12] [INFO] Collected 5 images for Mamta
+[2025-05-07 11:43:12] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-07 11:43:12] [INFO] Collected 8 images for Sourav
+[2025-05-07 11:43:12] [INFO] DeepFace uses pre-trained model, dataset ready
+[2025-05-07 11:43:17] [INFO] Started real-time attendance
+[2025-05-07 11:43:17] [INFO] Labels loaded Bradbury
+[2025-05-07 11:44:20] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:20] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:21] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:21] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:22] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:22] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:23] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:23] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:24] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:24] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:26] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:26] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:27] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:27] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:28] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:28] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:32] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:33] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:33] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:34] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:34] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:35] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:35] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:35] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:36] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:36] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:37] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:37] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:38] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:38] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:38] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:39] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:39] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:40] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:40] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:41] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:41] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:44:44] [INFO] Attendance stopped
+[2025-05-07 11:45:56] [INFO] Preparing DeepFace database...
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Akshita
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Anshika
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Arushi
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Chaitanya
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Chirag
+[2025-05-07 11:45:56] [INFO] Collected 5 images for Dishant
+[2025-05-07 11:45:56] [INFO] Collected 10 images for Kanchan
+[2025-05-07 11:45:56] [INFO] Collected 5 images for Mamta
+[2025-05-07 11:45:56] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-07 11:45:56] [INFO] Collected 8 images for Sourav
+[2025-05-07 11:45:56] [INFO] DeepFace uses pre-trained model, dataset ready
+[2025-05-07 11:46:08] [INFO] Started real-time attendance
+[2025-05-07 11:46:08] [INFO] Labels loaded Bradbury
+[2025-05-07 11:46:15] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:15] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:16] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:16] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:17] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:17] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:18] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:18] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:18] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:19] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:19] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:20] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:20] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:20] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:21] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:21] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:22] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:22] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:22] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:23] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:23] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:24] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:24] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:25] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:26] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:26] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:27] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:27] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:27] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:28] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:28] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:29] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:29] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:30] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:30] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:30] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:31] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:31] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:32] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:32] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:33] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:33] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:33] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:34] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:34] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:35] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:35] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:36] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:36] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:36] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:37] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:37] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:38] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:38] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:39] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:39] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:40] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:40] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:40] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:41] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:41] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:42] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:42] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:42] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:43] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:43] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:44] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:44] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:45] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:45] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:45] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:46] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:46] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:47] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:47] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:48] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:48] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:48] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:49] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:49] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:50] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:50] [ERROR] Recognition error: 'Series' object has no attribute 'split'
+[2025-05-07 11:46:53] [INFO] Attendance stopped
+[2025-05-07 11:47:46] [INFO] Started real-time attendance
+[2025-05-07 11:47:46] [INFO] Model and labels loaded
+[2025-05-07 11:48:12] [INFO] Attendance stopped
+[2025-05-07 11:48:14] [INFO] Training model...
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Akshita
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Anshika
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Arushi
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Chaitanya
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Chirag
+[2025-05-07 11:48:14] [INFO] Collected 5 images for Dishant
+[2025-05-07 11:48:14] [INFO] Collected 10 images for Kanchan
+[2025-05-07 11:48:14] [INFO] Collected 5 images for Mamta
+[2025-05-07 11:48:14] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-07 11:48:14] [INFO] Collected 8 images for Sourav
+[2025-05-07 11:48:14] [INFO] Model trained with 88 images
+[2025-05-07 11:48:15] [INFO] Started real-time attendance
+[2025-05-07 11:48:16] [INFO] Model and labels loaded
+[2025-05-07 11:48:30] [INFO] Attendance stopped
+[2025-05-07 11:49:20] [INFO] Training model...
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Akshita
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Anshika
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Arushi
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Chaitanya
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Chirag
+[2025-05-07 11:49:20] [INFO] Collected 5 images for Dishant
+[2025-05-07 11:49:20] [INFO] Collected 10 images for Kanchan
+[2025-05-07 11:49:20] [INFO] Collected 5 images for Mamta
+[2025-05-07 11:49:20] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-07 11:49:20] [INFO] Collected 8 images for Sourav
+[2025-05-07 11:49:21] [INFO] Model trained with 88 images
+[2025-05-07 11:49:23] [INFO] Started real-time attendance
+[2025-05-07 11:49:23] [INFO] Model and labels loaded
+[2025-05-07 11:49:52] [INFO] Attendance stopped
+[2025-05-07 11:49:56] [INFO] Testing recognition...
+[2025-05-07 11:49:56] [INFO] Model and labels loaded
+[2025-05-07 11:49:57] [INFO] Recognized: Dishant, Confidence: 52.92028421767393
+[2025-05-07 11:50:04] [INFO] Threshold set to 90.0
+[2025-05-07 11:50:09] [INFO] Started real-time attendance
+[2025-05-07 11:50:10] [INFO] Model and labels loaded
+[2025-05-07 11:50:17] [INFO] Marked attendance for Chaitanya
+[2025-05-07 11:50:34] [INFO] Attendance stopped
+[2025-05-07 11:50:40] [INFO] Threshold set to 95.0
+[2025-05-07 11:50:59] [INFO] Testing recognition...
+[2025-05-07 11:50:59] [INFO] Model and labels loaded
+[2025-05-07 11:50:59] [INFO] Recognized: Mamta, Confidence: 56.656826084683075
+[2025-05-07 11:51:33] [INFO] Testing recognition...
+[2025-05-07 11:51:33] [INFO] Model and labels loaded
+[2025-05-07 11:51:33] [WARNING] No face detected
+[2025-05-07 11:51:49] [INFO] Testing recognition...
+[2025-05-07 11:51:50] [INFO] Model and labels loaded
+[2025-05-07 11:51:50] [INFO] Recognized: Kanchan, Confidence: 114.23470967431473
+[2025-05-07 11:52:08] [INFO] Testing recognition...
+[2025-05-07 11:52:08] [INFO] Model and labels loaded
+[2025-05-07 11:52:08] [INFO] Recognized: Kanchan, Confidence: 112.05160497616077
+[2025-05-07 11:53:58] [INFO] Training model...
+[2025-05-07 11:53:58] [INFO] Collected 10 images for Akshita
+[2025-05-07 11:53:58] [INFO] Collected 10 images for Anshika
+[2025-05-07 11:53:58] [INFO] Collected 10 images for Arushi
+[2025-05-07 11:53:58] [INFO] Collected 10 images for Chaitanya
+[2025-05-07 11:53:58] [INFO] Collected 10 images for Chirag
+[2025-05-07 11:53:58] [INFO] Collected 5 images for Dishant
+[2025-05-07 11:53:58] [INFO] Collected 5 images for Mamta
+[2025-05-07 11:53:58] [INFO] Collected 10 images for OP VERMA SIR
+[2025-05-07 11:53:58] [INFO] Collected 8 images for Sourav
+[2025-05-07 11:53:58] [INFO] Model trained with 78 images
+[2025-05-07 11:54:06] [INFO] Testing recognition...
+[2025-05-07 11:54:07] [INFO] Model and labels loaded
+[2025-05-07 11:54:07] [INFO] Recognized: Chirag, Confidence: 92.95423254850844
+[2025-05-07 11:54:18] [INFO] Testing recognition...
+[2025-05-07 11:54:18] [INFO] Model and labels loaded
+[2025-05-07 11:54:18] [INFO] Recognized: Chirag, Confidence: 95.8486953309374
+[2025-05-07 11:54:23] [INFO] Started real-time attendance
+[2025-05-07 11:54:23] [INFO] Model and labels loaded
+[2025-05-07 11:54:32] [INFO] Marked attendance for Chirag
+[2025-05-07 11:54:50] [INFO] Attendance stopped
+[2025-05-07 11:55:06] [INFO] Testing recognition...
+[2025-05-07 11:55:06] [INFO] Model and labels loaded
+[2025-05-07 11:55:07] [INFO] Recognized: Dishant, Confidence: 98.1199347581066
+[2025-05-07 11:55:14] [INFO] Testing recognition...
+[2025-05-07 11:55:15] [INFO] Model and labels loaded
+[2025-05-07 11:55:15] [INFO] Recognized: Dishant, Confidence: 97.03915632152808
+[2025-05-07 12:02:23] [INFO] Training model...
+[2025-05-07 12:02:23] [WARNING] Skipping low-quality image: dataset\Chaitanya\0.jpg
+[2025-05-07 12:02:23] [WARNING] Skipping low-quality image: dataset\Chaitanya\6.jpg
+[2025-05-07 12:02:23] [WARNING] Skipping low-quality image: dataset\Chaitanya\9.jpg
+[2025-05-07 12:02:23] [INFO] Collected 7 images for Chaitanya
+[2025-05-07 12:02:23] [INFO] Collected 10 images for Chirag
+[2025-05-07 12:02:23] [INFO] Model trained with 17 images
+[2025-05-07 12:02:25] [INFO] Started real-time attendance
+[2025-05-07 12:02:25] [INFO] Model and labels loaded
+[2025-05-07 12:02:35] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:35] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:35] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:36] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:36] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:36] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:36] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:37] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:37] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:37] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:37] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:38] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:39] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:39] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:39] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:39] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:40] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:40] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:41] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:43] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:44] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:45] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:45] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:47] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:47] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:47] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:47] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:47] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:48] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:48] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:48] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:48] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:48] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:59] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:59] [INFO] Chaitanya already marked today
+[2025-05-07 12:02:59] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:00] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:01] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:01] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:01] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:01] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:01] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:06] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:07] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:08] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:11] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:03:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:09] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:10] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:12] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:13] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:14] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:15] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:16] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:17] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:18] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:18] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:18] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:18] [INFO] Chaitanya already marked today
+[2025-05-07 12:04:21] [INFO] Attendance stopped
+[2025-05-07 12:04:28] [INFO] Testing recognition...
+[2025-05-07 12:04:28] [INFO] Model and labels loaded
+[2025-05-07 12:04:28] [INFO] Recognized: Chirag, Confidence: 99.39
